@@ -47,3 +47,6 @@ The goal of the project was to clean raw transactional data, perform exploratory
 
 ---
 *This project was developed as a part of the IBM Data Analyst Professional Certificate on Coursera.*
+## 🤖 AI Collaboration
+---
+This project was developed in active collaboration with an AI assistant. AI was utilized as a technical co-pilot to research optimized workarounds for WPS Office software bugs (specifically fixing the Report Connections / Slicer UI color-reset issue), polish business metrics terminology, and refine documentation structure.
