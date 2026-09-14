@@ -1,5 +1,5 @@
 # E-Commerce Sales Analytics & Customer Segmentation Dashboard (MS Excel / WPS Office)
-Interactive Excel/WPS dashboard analyzing 5,000+ e-commerce transactions. Features advanced text parsing, cohort segmentation, and dynamic multi-slicer reporting.
+Interactive Excel/WPS dashboard analyzing 5,000 e-commerce transactions. Features advanced text parsing, cohort segmentation, and dynamic multi-slicer reporting.
 
 ## Project Overview
 This pet project focuses on a comprehensive end-to-end data analysis of an e-commerce platform's operational performance. The dataset contains 5,000 transaction records spanning from 2022 to 2026. 
